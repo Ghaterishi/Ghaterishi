@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rushikesh</h1>
+
+<h1 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There.....;Welcome+to+my+github" alt="Typing SVG" /></a> </h1>
+
+
 <h3 align="center">A passionate Cloud DevOps Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghaterishi" alt="ghaterishi" /></a> </p>
@@ -15,3 +19,4 @@
 ## Certifications...
 
 ![image](https://github.com/Ghaterishi/Ghaterishi/assets/92510442/716f1fca-a122-4eca-b4f6-7c3098d819e6) ![image](https://github.com/Ghaterishi/Ghaterishi/assets/92510442/1598fbad-9dd7-491d-8280-f20280dc5c66) ![image](https://github.com/Ghaterishi/Ghaterishi/assets/92510442/4ff57678-d2a6-4f6d-bbdb-339919eef3eb) ![image](https://github.com/Ghaterishi/Ghaterishi/assets/92510442/768ae802-b978-4188-95a0-87c4cee926f5)
+
